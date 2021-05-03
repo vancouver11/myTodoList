@@ -1,0 +1,24 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    
+  
+  }
+
+  .wrapTask{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:  0 30px;
+  }
+
+  .new{
+    flex-wrap: wrap;
+  }
+
+
+
+
+
+
+
+  

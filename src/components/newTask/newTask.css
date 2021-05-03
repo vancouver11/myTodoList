@@ -1,0 +1,35 @@
+.newTask{
+    min-width: 300px;
+    margin-top: 10px;
+    margin-right: 1em;
+  }
+  .newTask input{
+    height: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.3); 
+    border-radius: 6px;
+    width: 100%;
+  }
+  
+  .btnAdd{
+    min-width:  200px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  
+  .btnAdd button{
+    width: 100%;
+    height: 33px;
+  }
+
+  .taskMore{
+    margin-top: 10px;
+    margin-right: 1em;
+  }
+  .taskMore textarea {
+    min-width: 300px;
+    height: 60px;
+    border: 1px solid rgba(0, 0, 0, 0.3); 
+    border-radius: 6px;
+    width: 100%;
+  }
+  

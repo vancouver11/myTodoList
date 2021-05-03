@@ -1,0 +1,25 @@
+.filter{
+    margin:6px 6px 0 0 ;
+    float: right;
+  }
+  i {
+    margin-left:6px
+  }
+  i{
+    padding: 3px;
+    cursor: pointer;
+  }
+
+  i:hover{
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 2px;
+  }
+  
+  i.importantItem{
+    background-color: gold;
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 2px;
+  }
+

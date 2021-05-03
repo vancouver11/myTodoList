@@ -1,0 +1,13 @@
+
+.search{
+    min-width:  400px;
+    text-align: center;
+    flex-grow: 1;
+  }
+  .search input{
+    width: 50%;
+    min-width: 400px;
+    height: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.3); 
+    border-radius: 6px;
+  }

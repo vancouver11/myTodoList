@@ -1,0 +1,8 @@
+.detailsOfWork{
+    padding: 6px 0;
+    max-width: 360px;
+    display: none;
+  }
+.visibleDetails {
+  display: block;
+}

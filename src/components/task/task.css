@@ -1,0 +1,63 @@
+ul li{
+   padding-top: 10px ;
+    clear: both;
+    border-bottom: 0px solid;
+    margin-right:10px;
+ 
+  }
+
+.title{
+    float:left;
+    
+  }
+
+  .icon{
+    float:right;
+    margin-right:6px;
+  }
+
+  i {
+    margin-left:10px
+  }
+  .contain{
+    float: right;
+  }
+  .date {
+    float: right;
+    margin-right: 20px;
+  }
+  .more{
+    color: blue;
+  }
+  .important{
+    font-weight:bold ;
+    font-size: 1.2em;
+    color: #ff2e00
+  }
+  .done{
+    margin-top: 4px;
+  }
+  .done button{
+    padding: 2px 4px;
+    margin-bottom: 4px;
+  }
+  i{
+    padding: 3px;
+    cursor: pointer;
+  }
+
+  i:hover{
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 2px;
+  }
+  
+  i.importantItem{
+    background-color: gold;
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 2px;
+  }
+
+
+  
